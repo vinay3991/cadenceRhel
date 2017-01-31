@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/servers/scratch50/vinsingh/rts_cts_uart/waves.shm'
+let g:netrw_dirhist_2='/vobs/denali/uart'
+let g:netrw_dirhist_3='/vobs/denali/template/tamar'
+let g:netrw_dirhist_4='/dvplats/Linux/ee5_0/project/vipp11/cat/test/install/install/tools.lnx86/denali/ddvapi/specman/evc'
+let g:netrw_dirhist_5='/vobs/denali/uart'
